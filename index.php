@@ -99,7 +99,7 @@
                <img class="first-slide" src="images/banner.jpg" alt="First slide">
                <div class="container">
                   <div class="carousel-caption relative">
-                     <h1> <span>We Provide</span> Web Services</h1>
+                     <h1> <span>Salomon</span> Valdez Pacohuanaco</h1>
                      <a href="#contact">Contact Us</a>
                   </div>
                </div>
@@ -108,7 +108,7 @@
                <img class="second-slide" src="images/banner.jpg" alt="Second slide">
                <div class="container">
                   <div class="carousel-caption relative">
-                     <h1> <span>We Provide</span> Web Services</h1>
+                  <h1> <span>Salomon</span> Valdez Pacohuanaco</h1>
                      <a href="#contact">Contact Us</a>
                   </div>
                </div>
@@ -117,7 +117,7 @@
                <img class="third-slide" src="images/banner.jpg" alt="Third slide">
                <div class="container">
                   <div class="carousel-caption relative">
-                     <h1> <span>We Provide</span> Web Services</h1>
+                  <h1> <span>Salomon</span> Valdez Pacohuanaco</h1>
                      <a href="#contact">Contact Us</a>
                   </div>
                </div>
@@ -126,7 +126,7 @@
                <img class="third-slide" src="images/banner.jpg" alt="four slide">
                <div class="container">
                   <div class="carousel-caption relative">
-                     <h1> <span>We Provide</span> Web Services</h1>
+                  <h1> <span>Salomon</span> Valdez Pacohuanaco</h1>
                      <a href="#contact">Contact Us</a>
                   </div>
                </div>
@@ -135,7 +135,7 @@
                <img class="third-slide" src="images/banner.jpg" alt="five slide">
                <div class="container">
                   <div class="carousel-caption relative">
-                     <h1> <span>We Provide</span> Web Services</h1>
+                  <h1> <span>Salomon</span> Valdez Pacohuanaco</h1>
                      <a href="#contact">Contact Us</a>
                   </div>
                </div>
